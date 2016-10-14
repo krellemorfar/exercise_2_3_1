@@ -9,6 +9,7 @@ namespace Exercise_2_3_1
     {
         public static void Main(string[] args)
         {
+
         }
     }
 }
